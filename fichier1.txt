@@ -1,2 +1,2 @@
 fichier1.txt
-et j'ajoute une ligne !
+Master branch modification
